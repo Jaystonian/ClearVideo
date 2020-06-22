@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name vic20-svideoLHM-rescue)(type Legacy)(uri ${KIPRJMOD}/vic20-svideoLHM-rescue.lib)(options "")(descr ""))
+)
