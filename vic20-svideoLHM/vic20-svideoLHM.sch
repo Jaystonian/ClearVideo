@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:vic20-svideoLHM-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -265,10 +264,10 @@ Wire Wire Line
 Wire Wire Line
 	2650 1100 2900 1100
 $Comp
-L Connector_Generic:Conn_01x02 J1
+L Connector_Generic:Conn_01x02 Color-J1
 U 1 1 5E68E26F
 P 5450 2100
-F 0 "J1" H 5368 1775 50  0000 C CNN
+F 0 "Color-J1" H 5368 1775 50  0000 C CNN
 F 1 "Color-Out" H 5368 1866 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5450 2100 50  0001 C CNN
 F 3 "~" H 5450 2100 50  0001 C CNN
@@ -276,10 +275,10 @@ F 3 "~" H 5450 2100 50  0001 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J2
+L Connector_Generic:Conn_01x02 Luma-J2
 U 1 1 5E68F10D
 P 5650 2450
-F 0 "J2" H 5730 2442 50  0000 L CNN
+F 0 "Luma-J2" H 5730 2442 50  0000 L CNN
 F 1 "Luma-Out" H 5730 2351 50  0000 L CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5650 2450 50  0001 C CNN
 F 3 "~" H 5650 2450 50  0001 C CNN
