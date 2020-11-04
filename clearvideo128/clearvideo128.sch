@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "ClearVideo128"
+Date "2020-11-04"
+Rev "1.02"
+Comp "Jaystonian"
+Comment1 "Mini-RFM replacement module"
 Comment2 ""
 Comment3 ""
 Comment4 ""
