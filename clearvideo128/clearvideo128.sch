@@ -1193,6 +1193,7 @@ Wire Wire Line
 Wire Wire Line
 	6250 1200 7200 1200
 Connection ~ 7200 1200
+NoConn ~ 8300 4550
 Wire Bus Line
 	9400 2200 9400 3000
 Wire Bus Line
