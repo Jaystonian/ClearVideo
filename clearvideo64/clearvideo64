@@ -4,7 +4,7 @@ Reference, Value, Footprint, Datasheet
 "R4","75.0R","","~"
 "J1","1C,2Y,3G","","~"
 "VIC-II1","656X-VIC-II","Package_DIP:DIP-40_W15.24mm",""
-"U2","74LVC06","","http://www.ti.com/lit/gpn/sn74LS04"
+"U2","74LVC04","","http://www.ti.com/lit/gpn/sn74LS04"
 "C9","0.1uF","","~"
 "R13","2K","","~"
 "R15","2K","","~"
