@@ -35,7 +35,7 @@
       <tstamp>5D532FC9</tstamp>
     </comp>
     <comp ref="U2">
-      <value>74LVC06</value>
+      <value>74LVC04</value>
       <datasheet>http://www.ti.com/lit/gpn/sn74LS04</datasheet>
       <libsource lib="74xx" part="74LS04" description="Hex Inverter"/>
       <sheetpath names="/" tstamps="/"/>
